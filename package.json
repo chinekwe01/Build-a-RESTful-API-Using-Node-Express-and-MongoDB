@@ -1,0 +1,11 @@
+{
+  "name": "build-a-restful-api-using-node-express-and-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chinekwe_clever",
+  "license": "ISC"
+}
