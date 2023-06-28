@@ -1,5 +1,8 @@
 require('dotenv').config();
 
+const routes = require('./routes/routes');
+app.use('/api', routes)
+
 const express = require('express');
 const mongoose = require('mongoose');
 const mongoString = process.env.DATABASE_URL;
